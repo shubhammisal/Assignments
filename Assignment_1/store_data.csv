@@ -1,0 +1,11 @@
+Id,Name,Address,Type,Grocery
+210,Govinda,Pune,Fruits,"{'Apples': 200, 'bananas': 50, 'grapes': 140, 'oranges': 80, 'strawberries': 250}"
+211,Suman,Pune,Vegetables,"{'Potatoes': 40, 'onions': 60, 'carrots': 75, 'salad greens': 35, 'broccoli': 30}"
+212,Gouri,Pune,Dairy,"{'Butter': 58, 'cheese': 35, 'eggs': 100, 'milk': 45}"
+213,Pooja,Pune,Snacks,"{'Chips': 40, 'popcorn': 20, 'crackers': 50, 'nuts': 30}"
+214,Daimond,Pune,Meat,"{'Chicken': 280, 'pork': 300}"
+215,Pravin,Pune,Bread & Bakery,"{'Bread': 40, 'tortillas': 45, 'pies': 80, 'muffins': 90}"
+216,Shri,Pune,Baking,"{'Flour': 34, 'powdered sugar': 45, 'baking powder': 12}"
+217,Ismail,Pune,Personal Care,"{'Shampoo': 80, 'conditioner': 40, 'deodorant': 180, 'toothpaste': 10, 'dental floss': 160}"
+218,Sanjay,Pune,Health Care,"{'Saline': 250, 'band-aid': 190, 'cleaning alcohol': 230}"
+219,Ismail,Pune,Baby Items,"{'Baby food': 600, 'diapers': 200, 'wet wipes': 90, 'lotion': 300}"
